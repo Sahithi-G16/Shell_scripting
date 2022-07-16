@@ -1,6 +1,5 @@
 <<Documentation
 Name:G Sahithi
-Date:17/02/2022
 Description:arithmatic calculator using CLA 
 sample input:2 + 3
 sample output:5
