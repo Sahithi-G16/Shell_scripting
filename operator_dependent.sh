@@ -1,6 +1,5 @@
 <<Documentation
 Name:G Sahithi
-Date:27/02/2022
 Description:script to perform arithmatic operation on digits of a number
 sample input: ./operation_dependent.sh 1234+
 sample output: Sum of digits = 10
