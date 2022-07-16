@@ -1,6 +1,5 @@
 <<Documentation
 Name:G Sahithi
-Date:19/02/2022
 Description:to delete empty lines from a file
 sample input:
 hello
